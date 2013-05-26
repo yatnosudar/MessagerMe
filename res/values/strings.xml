@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Dochie Messenger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Dochie Messenger</string>
+    <string name="textHeader">Dochie</string>
+    <string name="nomor_hp">NomorHp</string>
+    <string name="large_text">Large Text</string>
+    <string name="btnDone">Done</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="addGroup">Add Group</string>
+    <string name="uriEmail">http://192.168.1.101/</string>
+    <string name="smtpEmail">192.168.1.101</string>
+    <string name="imapEmail">192.168.1.101</string>
+    <string name="domain">labitumm.org</string>
+    <string name="registrasi">Would like register?</string>
+    <string name="regitrasi1">Registration</string>
+
+    <color name="blackHitam">#000000</color>
+
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="ACCOUNT_TYPE">core.messager.dochie.account</string>
+    <string name="title_activity_tutorial_progress">TutorialProgress</string>
+    <string name="kirimpesan">Send Message</string>
+    <string name="labelisipesan">Message</string>
+    <string name="errorMessage">please cek your connection</string>
+
+</resources>

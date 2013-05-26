@@ -1,0 +1,4 @@
+(AndroidManifest.xml) uses-feature: android.hardware.telephony:required minimal Tablet OS version=10.0.6:impact=2
+(AndroidManifest.xml) targetSdkVersion: 15 is higher than 10:impact=1
+Summary: [5]=0; [4]=0; [3]=0; [2]=1; [1]=1;
+Impact Legend: [5]=Severe; [4]=High /context; [3]=Medium /context; [2]=Medium-low /context; [1]=Minor;

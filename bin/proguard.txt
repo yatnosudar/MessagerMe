@@ -1,0 +1,79 @@
+# view AndroidManifest.xml #generated:51
+-keep class core.messager.dochie.AddUserGroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class core.messager.dochie.Dochie { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class core.messager.dochie.ErrorMessageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class core.messager.dochie.GroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class core.messager.dochie.LoginSyncAdapter { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class core.messager.dochie.PesanActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class core.messager.dochie.PesanContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class core.messager.dochie.RegistrasiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class core.messager.dochie.UserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class core.messager.dochie.UserGroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class core.messager.dochie.network.DochieServiceNetworkProbe { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class core.messager.dochie.service.DochieServiceGettingEmail { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class core.messager.dochie.service.DochieServiceImapIdle { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class core.messager.dochie.service.DochieServiceNetwork { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class core.messager.dochie.service.DochieServicePlaySound { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class core.messager.dochie.service.DochieServieceBootComplate { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class core.messager.dochie.sync.AccountAuthenticatorService { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class core.messager.dochie.sync.ContactSyncService { <init>(...); }
+
+# onClick res/layout/message_dochie.xml #generated:46
+-keepclassmembers class * { *** btnErrorMessage(...); }
+
+# onClick res/layout/actionbar_dochie.xml #generated:21
+-keepclassmembers class * { *** btnHomeAction(...); }
+
+# onClick res/layout/message_dochie.xml #generated:32
+# onClick res/layout/regitrasi_user.xml #generated:23
+-keepclassmembers class * { *** btnRegClick(...); }
+
+# onClick res/layout/actionbarchat_dochie.xml #generated:39
+-keepclassmembers class * { *** kirimPesan(...); }
+
+# onClick res/layout/done_cancel.xml #generated:29
+-keepclassmembers class * { *** onClickCancel(...); }
+
+# onClick res/layout/done_cancel.xml #generated:17
+-keepclassmembers class * { *** onClickDone(...); }
+
+# onClick res/layout/actionbar_dochie.xml #generated:90
+-keepclassmembers class * { *** tekanLeft1(...); }
+
+# onClick res/layout/actionbar_dochie.xml #generated:118
+-keepclassmembers class * { *** tekanLeft2(...); }
+

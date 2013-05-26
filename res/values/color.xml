@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#FF8800</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange_terang">#FFBB33</color>
+    <color name="abu10">#ebebeb</color>
+    <color name="abu30">#c2c2c2</color>
+    <color name="abu">#e1e1e1</color>
+    <color name="swatch">#eeeeee</color>
+    <color name="merahdangker">#CC0000</color>
+    <color name="slimmerah">#FF4444</color>
+    <color name="hijautua">#669900</color>
+    <color name="hijaumuda">#99CC00</color>
+    <color name="hijautext">#c4df9b</color>
+    <color name="merah">#CC0000</color>
+    <color name="merah_android">#FF4444</color>
+    
+</resources>

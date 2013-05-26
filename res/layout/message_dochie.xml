@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange_terang"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="94dp"
+        android:layout_weight="0.60"
+        android:text="@string/app_name"
+        android:textAppearance="@style/textbold"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/errorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_alignRight="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:text="@string/errorMessage"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btnYes02"
+        style="@style/textbold"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/errorText"
+        android:layout_alignRight="@+id/errorText"
+        android:layout_centerVertical="true"
+        android:layout_margin="5px"
+        android:background="@drawable/action_bar_selector"
+        android:onClick="btnRegClick"
+        android:text="@string/Yes"
+        android:textColor="@color/white" />
+    
+    <Button
+        android:id="@+id/btnNo03"
+        style="@style/textbold"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/errorText"
+        android:layout_alignRight="@+id/errorText"
+        android:layout_centerVertical="true"
+        android:layout_margin="5px"
+        android:background="@drawable/action_bar_selector"
+        android:onClick="btnErrorMessage"
+        android:text="@string/Yes"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
